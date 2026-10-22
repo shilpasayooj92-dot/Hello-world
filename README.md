@@ -1,4 +1,16 @@
-# Legal Jargon
+# Hello World Java
+
+Compile and run the program from the project directory:
+
+```sh
+javac HelloWorld.java
+java HelloWorld
+```
+
+The class name is case-sensitive: use `HelloWorld`, not `Helloworld`. Compile
+the source first so `HelloWorld.class` exists before running it.
+
+## Legal Jargon
 
 [http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java](This is not a joke).
 
